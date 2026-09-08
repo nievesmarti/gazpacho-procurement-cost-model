@@ -57,6 +57,20 @@ Waste Control & KPIs
 - Automatic warning when waste deviation exceeds ±1% of monthly finished production.
 - Ingredient cost contribution analysis.
 
+## Model Preview
+
+### Purchasing Plan
+
+The purchasing plan translates monthly production volumes into raw material requirements and provides visibility over purchased quantities, purchase prices, weighted average prices, purchase variance and coverage.
+
+![Purchasing Plan](screenshots/purchasing_plan.png)
+
+### Cost Model & KPIs
+
+The cost model consolidates production, procurement, raw material spend, product cost and waste-control information into monthly and YTD KPIs.
+
+![Cost Model and KPIs](screenshots/cost_model.png)
+
 ## Core Calculations
 
 ### Gross Raw Material Requirement
