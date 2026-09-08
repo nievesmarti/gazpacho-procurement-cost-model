@@ -189,3 +189,11 @@ Both workbooks use the same business logic, calculations, assumptions and contro
 **Nieves Martí**
 
 Procurement | Sourcing | Supply Chain | Business Intelligence
+
+## Copyright
+
+© 2026 Nieves Martí. All rights reserved.
+
+This repository is published for portfolio and demonstration purposes.
+No permission is granted to reproduce, distribute, modify or reuse the
+work contained in this repository without prior written permission.
